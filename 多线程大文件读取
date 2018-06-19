@@ -1,0 +1,2 @@
+间接分配(HeapByteBuffer)内存：(30MB)多个线程根据多行数据换行符("\r\n")分配任务:
+内存映射读取大文件:NIO中MappedByteBuffer
