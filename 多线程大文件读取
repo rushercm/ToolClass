@@ -4,3 +4,5 @@
 https://blog.csdn.net/mg0832058/article/details/5890688
 传统read()和write()拷贝:硬盘-->内核空间缓冲区-->用户空间 --两次数据拷贝
   -->而mmop()没有进行数据拷贝，将文件直接映射到用户空间--中断处理函数处理(只进行了一次数据拷贝)
+ https://www.cnblogs.com/5iedu/p/4899791.html 
+  
